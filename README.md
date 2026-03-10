@@ -1,7 +1,5 @@
 # Eng-Mecatronica-Aulas-Python
 
-# Eng-Mecatronica-Aulas-Python
-
 Repositório com materiais, exemplos de código e exercícios em **Python** aplicados à **Engenharia Mecatrônica**.
 
 ## 👨‍💻 Autor
